@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/StarWarsCodeFiles/static/css/main.9ea6d243.chunk.css",
+    "main.js": "/StarWarsCodeFiles/static/js/main.b1329f1b.chunk.js",
+    "main.js.map": "/StarWarsCodeFiles/static/js/main.b1329f1b.chunk.js.map",
+    "runtime~main.js": "/StarWarsCodeFiles/static/js/runtime~main.b62354c8.js",
+    "runtime~main.js.map": "/StarWarsCodeFiles/static/js/runtime~main.b62354c8.js.map",
+    "static/js/2.e872fb4d.chunk.js": "/StarWarsCodeFiles/static/js/2.e872fb4d.chunk.js",
+    "static/js/2.e872fb4d.chunk.js.map": "/StarWarsCodeFiles/static/js/2.e872fb4d.chunk.js.map",
+    "index.html": "/StarWarsCodeFiles/index.html",
+    "precache-manifest.36fb72ec02fa25fe2333d377b7cc337e.js": "/StarWarsCodeFiles/precache-manifest.36fb72ec02fa25fe2333d377b7cc337e.js",
+    "service-worker.js": "/StarWarsCodeFiles/service-worker.js",
+    "static/css/main.9ea6d243.chunk.css.map": "/StarWarsCodeFiles/static/css/main.9ea6d243.chunk.css.map"
+  }
+}
